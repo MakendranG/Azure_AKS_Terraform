@@ -15,7 +15,7 @@ variable "tenant_id" {
 }
 
 variable "resource_group_name" {
-  default = "foxutech-rg"
+  default = "kcdchennai-rg"
 }
 
 variable "agent_count" {
